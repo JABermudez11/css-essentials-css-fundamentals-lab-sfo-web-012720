@@ -18,5 +18,5 @@ p#featured-property{
   align-items: center;
 }
 div#details {
-  
+  display: block;
 }
