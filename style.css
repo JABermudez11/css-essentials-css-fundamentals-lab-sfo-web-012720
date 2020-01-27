@@ -13,7 +13,7 @@ a {
 img[title="Welcome to Exceptional Realty Group"] {
   font-size: 10px;
 }
-p featured-property{
+p#featured-property{
   width: 800px;
   align-items: center;
 }
