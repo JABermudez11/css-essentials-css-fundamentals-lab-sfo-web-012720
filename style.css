@@ -3,3 +3,10 @@ body {
   height: 100%;
   margin: 0;
 }
+head {
+  align-items: center;
+}
+a {
+  padding: 10px;
+  background: green;
+}
