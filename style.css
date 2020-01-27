@@ -19,4 +19,5 @@ p#featured-property{
 }
 div#details {
   display: block;
+  float: left;
 }
