@@ -10,6 +10,6 @@ a {
   padding: 10px;
   background: green;
 }
-img[title] {
-  
+img[title="Welcome to Exceptional Realty Group"] {
+
 }
